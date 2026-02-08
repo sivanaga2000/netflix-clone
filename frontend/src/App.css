@@ -1,0 +1,4 @@
+body { background: black; color: white; font-family: Arial; }
+.app { padding: 20px; }
+.movies { display: flex; gap: 20px; }
+.movie img { border-radius: 8px; }
